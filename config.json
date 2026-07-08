@@ -1,0 +1,13 @@
+{
+  "temperature": 1000,
+  "mean_barrier": 0.7,
+  "units": "METAL",
+  "colors": {
+      "1": "#2A6393",
+      "2": "#CC6677",
+      "3": "#117733",
+      "4": "#DDCC77",
+      "5": "#AA4499"
+  },
+  "num_processes": 10
+}
